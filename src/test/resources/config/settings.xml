@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<datasources>
+    <datasource index="1">
+        <name>one</name>
+        <type>hive</type>
+        <url>123</url>
+        <username>aaa</username>
+        <password>bbb</password>
+    </datasource>
+</datasources>
